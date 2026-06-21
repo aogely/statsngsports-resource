@@ -1,2 +1,14 @@
 # statsngsports-resource
-HTML page archive and documentation
+
+自动生成页面存放处
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
